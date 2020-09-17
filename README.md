@@ -2,10 +2,10 @@
 # Summary
 
 This bash script does those following:
-1- List information on all network devices on your machine. IP addresses, link-level addresses, network masks, etc. per network device on your machine.
-2- Let you pick one of the network devices
-3- Calculate the network and the cidr 
-4- Use Nmap to ping each devices in the list to see if it's up or down
+* List information on all network devices on your machine. IP addresses, link-level addresses, network masks, etc. per network device on your machine.
+* Let you pick one of the network devices
+* Calculate the network and the cidr 
+* Use Nmap to ping each devices in the list to see if it's up or down
 
 # How to use it
 
